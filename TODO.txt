@@ -1,0 +1,8 @@
+Create window for loading screen 
+    - checks local storage for stored key-value pair
+    - if not found, starts a session by generating & storing user and token in hashtable
+
+Storage
+    - create local storage 
+
+Styling

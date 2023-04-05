@@ -1,0 +1,15 @@
+body {
+    /* background: rgb(9, 2, 129);
+    background: linear-gradient(90deg, rgba(9, 2, 129, 1) 0%, rgba(13, 11, 154, 1) 29%, rgba(14, 14, 176, 1) 56%, rgba(0, 212, 255, 1) 100%); */
+    background-image: url('./Add\ a\ subheading.png');
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.loading-div{
+    border-radius: 5px;
+}
